@@ -1,17 +1,17 @@
 # Usage:
 
 ```console
-foo@bar:~$ git clone https://github.com/hangsiahong/larbs
+foo@bar:~$ git clone https://github.com/hangsiahong/harbs
 
 ```
 
 ```console
-foo@bar:~$ cd larbs
+foo@bar:~$ cd harbs
 
 ```
 
 ```console
-foo@bar:~$ sudo sh larbs.sh
+foo@bar:~$ sudo sh harbs.sh
 
 ```
 
